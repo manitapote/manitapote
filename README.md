@@ -7,7 +7,7 @@
 🌐 [Visit My Website](https://manitapote.github.io)
 
 ## 
-- 🌱 I’m currently learning AI risk/safety and AI governance.
+- 🌱 I’m currently learning about AI risk/safety and AI governance.
 - 👯 I’m looking to collaborate on AI risk/safety and AI governance projects.
 - 📫 How to reach me: [📧](mailto:manitapote@gmail.com)
 - 🧘 I care about mindfulness. 
