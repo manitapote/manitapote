@@ -1,16 +1,14 @@
+# 👨‍💻 Manita Pote  
 ## Hi there 👋
+🎓 **PhD Candidate** in Informatics at Indiana University Bloomington  
+🔍 **Focus:** Online Trust & Safety, Inauthentic Coordinated Abuse <br />
+- I focus on uncovering inauthentic coordination tactics, identifying coordination indicators, and developing algorithms and models for effective detection. Curious? Check my website ⬇️. <br />
 
-<!--
-**manitapote/manitapote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 [Visit My Website](https://manitapote.github.io)
 
-Here are some ideas to get you started:
+## 
+- 🌱 I’m currently learning AI risk/safety and AI governance.
+- 👯 I’m looking to collaborate on AI risk/safety and AI governance projects.
+- 📫 How to reach me: [📧](mailto:manitapote@gmail.com)
+- 🧘 I care about mindfulness. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
