@@ -8,7 +8,6 @@ I leverage tools and techniques from data science, machine learning, deep learni
 🌐 [Visit My Website](https://manitapote.github.io)
 
 ## 
-- 🌱 I’m currently learning about AI risk/safety and AI governance.
-- 👯 I’m looking to collaborate on AI risk/safety and AI governance projects.
+- 🌱 I’m currently working on AI projects.
 - 📫 How to reach me: [📧](mailto:manitapote@gmail.com)
 - 📖 Current read: AI Engineering by Chip Huyen.
