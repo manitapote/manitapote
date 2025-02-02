@@ -11,3 +11,5 @@ I leverage tools and techniques from data science, machine learning, deep learni
 - 🌱 I’m currently working on AI projects.
 - 📫 How to reach me: [📧](mailto:manitapote@gmail.com)
 - 📖 Current read: AI Engineering by Chip Huyen.
+
+Visitor Counter: ![Visitor Count](https://profile-counter.glitch.me/manitapote/count.svg)
