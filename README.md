@@ -1,5 +1,5 @@
-# 👨‍💻 Manita Pote  
-## Hi there 👋
+# 👋 👨‍💻 Hi, I am Manita Pote  
+
 🎓 **PhD Candidate** in Informatics, Complex Networks and System, at Indiana University Bloomington  
 🔍 **Focus:** Data Science, Machine Learning, Online Trust & Safety, Inauthentic Coordinated Abuse <br /><br />
 
